@@ -5,7 +5,7 @@
 
 ## About Me
 
-- 🔭 Co-founder and CEO at Morph.
+- 🔭 Co-founder and CEO at [Squadbase](https://squadbase.dev/).
 - 👨‍💻 Creator of [morph](https://github.com/morph-data/morph).
 - 🌱 I’m interested in data engineering and AI/ML.
 
