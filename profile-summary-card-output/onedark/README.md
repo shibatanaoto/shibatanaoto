@@ -32,3 +32,23 @@
 ```
 
     
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/shibatanaoto/shibatanaoto/main/profile-summary-card-output/onedark/3-stats.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/shibatanaoto/shibatanaoto/main/profile-summary-card-output/onedark/4-productive-time.svg)
+```
+
+    

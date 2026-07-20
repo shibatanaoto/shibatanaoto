@@ -32,3 +32,23 @@
 ```
 
     
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/shibatanaoto/shibatanaoto/main/profile-summary-card-output/calm/3-stats.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/shibatanaoto/shibatanaoto/main/profile-summary-card-output/calm/4-productive-time.svg)
+```
+
+    
