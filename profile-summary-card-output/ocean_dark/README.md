@@ -15,30 +15,10 @@
 ### Each card usage
 ---
 
-![](./0-profile-details.svg)
-
-```
-![](https://raw.githubusercontent.com/shibatanaoto/shibatanaoto/main/profile-summary-card-output/ocean_dark/0-profile-details.svg)
-```
-
-    
-
----
-
 ![](./1-repos-per-language.svg)
 
 ```
 ![](https://raw.githubusercontent.com/shibatanaoto/shibatanaoto/main/profile-summary-card-output/ocean_dark/1-repos-per-language.svg)
-```
-
-    
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/shibatanaoto/shibatanaoto/main/profile-summary-card-output/ocean_dark/3-stats.svg)
 ```
 
     

@@ -15,30 +15,10 @@
 ### Each card usage
 ---
 
-![](./0-profile-details.svg)
-
-```
-![](https://raw.githubusercontent.com/shibatanaoto/shibatanaoto/main/profile-summary-card-output/bear/0-profile-details.svg)
-```
-
-    
-
----
-
 ![](./1-repos-per-language.svg)
 
 ```
 ![](https://raw.githubusercontent.com/shibatanaoto/shibatanaoto/main/profile-summary-card-output/bear/1-repos-per-language.svg)
-```
-
-    
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/shibatanaoto/shibatanaoto/main/profile-summary-card-output/bear/3-stats.svg)
 ```
 
     
